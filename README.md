@@ -13,8 +13,6 @@
 
 - 🏢 I'm a Full Stack Web Developer.
 - 👨‍💻 As a National Telecommunication Institute(NTI) Graduate , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with HTML, CSS, Bootstrap,JavaScript, Angular,and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a tea and meditation lover and my perfect day starts and ends with a cup of tea.
 
 
 ### Connect with Me :
