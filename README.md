@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Full Stack Web Developer.
-- 👨‍💻 As a National Telecommunication Institute(NTI) Graduate , I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Information Technology Institute(ITI) Graduate and a National Telecommunication Institute(NTI) Graduate , I'm constantly learning and exploring new technologies to improve my skills.
 
 
 ### Connect with Me :
@@ -28,7 +28,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
+
 
 
 
