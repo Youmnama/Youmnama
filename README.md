@@ -28,8 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![C Sharp](https://img.shields.io/badge/-C Sharp-05122A?style=flat&logo=C Sharp)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
+![C Sharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
 
 
 
