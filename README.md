@@ -13,6 +13,7 @@
 
 - 🏢 I'm a Full Stack Web Developer.
 - 👨‍💻 As an Information Technology Institute(ITI) Graduate and a National Telecommunication Institute(NTI) Graduate , I'm constantly learning and exploring new technologies to improve my skills.
+- I am a passionate developer who loves building scalable web applications and solving real-world problems through clean and efficient code.
 
 
 ### Connect with Me :
